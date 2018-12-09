@@ -71,4 +71,4 @@ assistant.assist('what is the weather')
 ```
 
 ## License
-See `LICENSE`.
+See [LICENSE.](https://github.com/Buddhilive/assistant-sdk-nodejs/blob/master/LICENSE)
